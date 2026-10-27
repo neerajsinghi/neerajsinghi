@@ -4,7 +4,7 @@
 
 I'm a senior backend engineer with 10+ years building production systems in **Go**, plus **Node.js / NestJS** and **TypeScript**: microservices, SDKs, and containerized platforms on **AWS**, and lately **AI / RAG** and tool-using agents.
 
-- 🔭 **Now:** Lead Backend Engineer, leading a 5-engineer team on an AI-enabled consumer marketplace (Go + NestJS, MongoDB, Next.js, OpenAI/RAG)
+- 🔭 **Now:** Lead Backend Engineer, leading a 5-engineer team on a community social platform serving 10,000 users (Go + NestJS, MongoDB, Next.js, OpenAI/RAG). The work includes taking the slowest APIs from over 2s to 200–500 ms
 - 🏢 **Before:** Senior Software Consultant at **Dell Technologies** (license enforcement, usage metering, tamper detection, pure-Go port of a C component), then Turing.com, AstraZeneca (via Truelancer) and Broadcom
 - ✍️ **Writing:** engineering posts on Go, distributed systems and AWS at [neerajsinghi.com/blogs](https://neerajsinghi.com/blogs)
 - 🤝 **Open to:** Senior, Staff and Lead backend engineering roles (remote or relocation)
